@@ -59,3 +59,12 @@ for(let r=1; r<=6;r++){
     }
     console.log('--------------')
 }
+let o = 30
+switch(o){
+    case o<20 :
+        console.log('o<20')
+        break
+        case o<40 :
+            console.log('o<40')
+            break
+}
