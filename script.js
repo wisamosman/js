@@ -12,4 +12,13 @@ alert('welcom')
 let Age = prompt('Enter Your Age : 31')
 console.log(age)
 let Ana = confirm('Are you married ?')
-console.log('Ana')
+console.log('ana')
+let allowAccess
+let omer = prompt('Enter your Age :')
+if (omer > 14){
+  allowAccess   = true;
+}
+else{
+    allowAccess = false ;
+}
+console.log(allowAccess)
