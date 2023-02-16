@@ -68,3 +68,9 @@ switch(o){
             console.log('o<40')
             break
 }
+function tr(){
+    let p = 2
+let l = 6
+console.log(p+l)
+}
+tr()
