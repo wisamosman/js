@@ -31,3 +31,8 @@ let x = 5
 if (x < 10 || x > 5 ){
     console.log('done')
 }
+let y = 6
+if ( x < 10 && x > 4 )
+{
+    console.log('mohamed')
+}
