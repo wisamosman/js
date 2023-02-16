@@ -27,3 +27,7 @@ let umit = prompt('anta omri :')
 if (umit >15){
     gmail = false;
 }
+let x = 5
+if (x < 10 || x > 5 ){
+    console.log('done')
+}
