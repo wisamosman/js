@@ -74,3 +74,6 @@ let l = 6
 console.log(p+l)
 }
 tr()
+function mysun(x,y){
+    console.log(x+y)
+}
