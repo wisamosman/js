@@ -46,3 +46,6 @@ while (w > 0){
     console.log(w)
     w--
 }
+for ( let t=1;t<11;t++){
+    console.log(t)
+}
