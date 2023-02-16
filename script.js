@@ -7,3 +7,4 @@ let userName='wesam'
 ,message='hello'
 console.log('userName');
 const my='10.01.1986'
+alert('welcom')
