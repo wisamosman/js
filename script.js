@@ -41,3 +41,8 @@ while (q < 10){
     console.log(q)
     q++
 }
+let w = 10
+while (w > 0){
+    console.log(w)
+    w--
+}
