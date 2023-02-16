@@ -36,3 +36,8 @@ if ( x < 10 && x > 4 )
 {
     console.log('mohamed')
 }
+let q = 0
+while (q < 10){
+    console.log(q)
+    q++
+}
