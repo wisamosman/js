@@ -8,3 +8,5 @@ let userName='wesam'
 console.log('userName');
 const my='10.01.1986'
 alert('welcom')
+let Age = prompt('Enter Your Age : ')
+console.log(age)
