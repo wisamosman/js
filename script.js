@@ -49,3 +49,7 @@ while (w > 0){
 for ( let t=1;t<11;t++){
     console.log(t)
 }
+let m = 1
+for(let i=1;i<=12;i++){
+    console.log(`${m} X ${i} = ${m*i}`)
+}
