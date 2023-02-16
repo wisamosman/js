@@ -53,3 +53,8 @@ let m = 1
 for(let i=1;i<=12;i++){
     console.log(`${m} X ${i} = ${m*i}`)
 }
+for(let r=1; r<=6;r++){
+    for(let u=1;u<=15;u++){
+        console.log(`${r} X ${u}= ${r*u}`)
+    }
+}
