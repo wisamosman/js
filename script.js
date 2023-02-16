@@ -22,3 +22,8 @@ else{
     allowAccess = false ;
 }
 console.log(allowAccess)
+let gmail
+let umit = prompt('anta omri :')
+if (umit >15){
+    gmail = false;
+}
