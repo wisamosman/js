@@ -57,4 +57,5 @@ for(let r=1; r<=6;r++){
     for(let u=1;u<=15;u++){
         console.log(`${r} X ${u}= ${r*u}`)
     }
+    console.log('--------------')
 }
